@@ -15,7 +15,7 @@ hi, i'm [Yuv Sinha](https://[yuvsinha01](https://yuvsinha01.medium.com/)/), a pa
 i am also an open-source enthusiast and maintainer.
 
 
-  <img align="right" alt="GIF" src="https://www.webdecorum.com/webdecorumm/wp-content/uploads/2021/12/Hybrid-App-Development-Services-gif.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/imyuvsinha/imyuvsinha/blob/main/app.gif" width="500" height="320" />
   
 
 - 💬 ask me about anything, i am happy to help;
