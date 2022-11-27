@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm [Yuv Sinha](https://[yuvsinha01](https://yuvsinha01.medium.com/)/), a passionate full stack web and App developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Yuv Sinha](https://[yuvsinha01](https://yuvsinha01.medium.com/)/), a passionate full stack web and App developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer.
 
