@@ -1,25 +1,28 @@
-### Hey folks !
+### Hi there, I'm Yuv! 👋
+
+
+I'm a passionate full-stack web and app developer with a relentless curiosity for problem-solving. For me, every challenge is an opportunity to craft a solution, and I firmly believe that "a problem is a problem until it reaches me – once it does, it becomes a solution."
+
+**Entrepreneurship and tech innovation** run deep in my veins, and I find joy in creating world-class tech products that address real-world needs. My journey in the tech world has been driven by an unwavering commitment to find and implement solutions using technology.
+
+🌍 **On a mission to spread love and solutions to the world**:   <img align="right" alt="GIF" src="https://github.com/imyuvsinha/imyuvsinha/blob/main/app.gif" width="500" height="320" style="border-radius:'50%'"/>
+- Whether it's coding, building startups, or just lending a helping hand, I'm here to make a positive impact.
+- I thrive in collaborative environments, and I'm always eager to learn from and contribute to the global tech community.
+
+When I'm not coding, you can find me exploring new technologies, brainstorming ideas, or diving into the latest tech trends. Let's connect, collaborate, and together, let's make the world a better place one code at a time.
+
+Feel free to reach out for projects, collaborations, or just a friendly tech chat. Let's innovate, inspire, and make a difference together!
+
 <a href="https://www.instagram.com/yuv_sinha/">
   <img align="left" alt="Yuv's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img align="left" alt="Yuv's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 <br />
+<br />
 
-Hi, i'm [Yuv Sinha](https://[yuvsinha01](https://yuvsinha01.medium.com/)/), a passionate full stack web and App developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer.
-
-
-  <img align="right" alt="GIF" src="https://github.com/imyuvsinha/imyuvsinha/blob/main/app.gif" width="500" height="320" />
+ 
   
-
-- 💬 ask me about anything, i am happy to help;
-
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
