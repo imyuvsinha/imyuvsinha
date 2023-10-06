@@ -3,7 +3,7 @@
 
 I'm a passionate full-stack web and app developer with a relentless curiosity for problem-solving. For me, every challenge is an opportunity to craft a solution, and I firmly believe that "a problem is a problem until it reaches me – once it does, it becomes a solution."
 
-**Entrepreneurship and tech innovation** run deep in my veins, and I find joy in creating world-class tech products that address real-world needs. My journey in the tech world has been driven by an unwavering commitment to find and implement solutions using technology.
+
 
 🌍 **On a mission to spread love and solutions to the world**:   <img align="right" alt="GIF" src="https://github.com/imyuvsinha/imyuvsinha/blob/main/app.gif" width="500" height="320" style="border-radius:'50%'"/>
 - Whether it's coding, building startups, or just lending a helping hand, I'm here to make a positive impact.
