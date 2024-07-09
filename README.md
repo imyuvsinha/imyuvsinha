@@ -11,9 +11,6 @@ When I'm not coding, I'm exploring new tech, brainstorming ideas, or following t
 
 Feel free to reach out for projects, collaborations, or just a tech chat. Let's innovate, inspire, and make a difference together!
 
-<a href="https://www.instagram.com/yuv_sinha/">
-  <img align="left" alt="Yuv's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 
 <br />
 <br />
