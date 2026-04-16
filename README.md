@@ -1,16 +1,7 @@
 # Hi there, I'm Yuv! 👋
 
-I'm a passionate full-stack web and app developer with a relentless curiosity for problem-solving. For me, every challenge is an opportunity to craft a solution. I firmly believe that "a problem is a problem until it reaches me – once it does, it becomes a solution."
-
-🌍 **On a Mission to Spread Love and Solutions to the World**  
 <img align="right" alt="GIF" src="https://github.com/imyuvsinha/imyuvsinha/blob/main/app.gif" width="500" height="320" style="border-radius: 50%;"/>
-- Coding, building startups, or lending a hand—I'm here to make a positive impact.
-- I thrive in collaborative environments and love learning from the global tech community.
-
-When I'm not coding, I'm exploring new tech, brainstorming ideas, or following the latest trends. Let's connect, collaborate, and improve the world one code at a time.
-
-Feel free to reach out for projects, collaborations, or just a tech chat. Let's innovate, inspire, and make a difference together!
-
+- Coding, building startups, or lending a hand — I'm here to make a positive impact.
 
 <br />
 <br />
